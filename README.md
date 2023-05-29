@@ -1,3 +1,4 @@
+![logo](https://github.com/shubham-singh-12/shubham-singh-12/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate "Front-end Developer" from India</h3>
 
