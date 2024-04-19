@@ -4,9 +4,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shubham-singh-12" align="right" width="400"/> </p>
 
-<h1 align="center">Hi 👋, I'm SHUBHAM SINGH</h1>
-<h3 align="center">A passionate "Front-end Developer" from India.</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-singh-12" alt="shubham-singh-12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/odin__official" target="blank"><img src="https://img.shields.io/twitter/follow/odin__official?logo=twitter&style=for-the-badge" alt="odin__official" /></a> </p>
