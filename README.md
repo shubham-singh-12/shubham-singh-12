@@ -4,7 +4,8 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shubham-singh-12" align="right" width="400"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-12&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-singh-12" /> </p>
+<h1 align="center">Hi 👋, I'm SHUBHAM SINGH</h1>
+<h3 align="center">A passionate "Front-end Developer" from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-singh-12" alt="shubham-singh-12" /></a> </p>
 
