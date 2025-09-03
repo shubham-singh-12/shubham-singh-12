@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-singh-12" alt="shubham-singh-12" /></a> </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shubham-singh-12" align="right" width="400"/> </p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shubham-singh-12" align="right" width="400" controls autoplay/> </p>
 
 <p align="left"> <a href="https://twitter.com/odin__official" target="blank"><img src="https://img.shields.io/twitter/follow/odin__official?logo=twitter&style=for-the-badge" alt="odin__official" /></a> </p>
 
